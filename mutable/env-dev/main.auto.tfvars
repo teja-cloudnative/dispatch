@@ -1,0 +1,2 @@
+COMPONENT = "dispatch"
+ENV       = "dev"
